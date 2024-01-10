@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joubert Polson
-- 👀 I’m interested in unity game development as a personal hoby
-- 🌱 I’m currently learning C# and the ins and outs of game development.
-- 💞️ I’m looking for a mentor or a link to any really good books or courses on these topics.
+- 👀 I’m interested in python as a fundamental base for my futute endevors and c++ on the side for game and app development
+- 🌱 I’m currently investing all my time into python, but I dabble in Matlab and c++ from time to time
+- 💞️ I love trying to make my ideas come to life and learning from solving errors for hours (even if it is frustrating sometimes)
 - 📫 How to reach me joubert@polsons.info
 
 <!---
